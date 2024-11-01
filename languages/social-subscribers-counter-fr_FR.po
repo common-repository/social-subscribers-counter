@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Subscribers Counter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-17 00:03+0100\n"
+"PO-Revision-Date: 2012-05-17 00:04+0100\n"
+"Last-Translator: Lihwem <dev@dev.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter\n"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/social-subscribers-counter.php:128
+msgid "Twitter followers"
+msgstr "followers Twitter"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/social-subscribers-counter.php:152
+msgid "Facebook fans"
+msgstr "fans Facebook"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/social-subscribers-counter.php:175
+msgid "RSS readers"
+msgstr "abonnés RSS"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/social-subscribers-counter.php:215
+msgid "Twitter Username is invalid."
+msgstr "Le pseudo Twitter est invalide."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/social-subscribers-counter.php:231
+msgid "Facebook Page doesn't exist."
+msgstr "La Page Facebook n'existe pas."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/social-subscribers-counter.php:247
+msgid "Feedburner ID is invalid."
+msgstr "L'identifiant Feedburner n'est pas valide."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/social-subscribers-counter.php:287
+msgid "Settings"
+msgstr "Réglages"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/social-subscribers-counter.php:291
+msgid "Twitter Username : "
+msgstr "Pseudo Twitter :"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/social-subscribers-counter.php:301
+msgid "Facebook Page : "
+msgstr "Page Facebook :"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/social-subscribers-counter.php:311
+msgid "Feedburner ID : "
+msgstr "Identifiant Feedburner"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/admin/contextual-help.php:22
+msgid "Social Subscribers Counter display the numbers of followers you have on Twitter and Facebook."
+msgstr "Social Subscribers Counter afiche le nombre de personnes qui vous suivent sur Twitter ou Facebook."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/admin/contextual-help.php:23
+msgid "For Twitter, you just have to inform what is your Twitter Username. <span class=\"description\">(ex:  http://twitter.com/#!/<strong>yourTwitterName</strong></span>)."
+msgstr "Pour Twitter, vous avez juste à renseigner votre nom d'utilisateur. (ex: <span class=\"description\">(ex:  http://twitter.com/#!/<strong>yourTwitterName</strong></span>)."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/admin/contextual-help.php:24
+msgid "For your Facebook Page, you must fill the field with the name you have in your URL. <span class=\"description\">(ex: http://www.facebook.com/<strong>yourFacebookName</strong>)</span>.<br />"
+msgstr "Pour votre Page Facebook, vous devez remplir le champ avec le nom que vous avez dans l'URL de votre page. <span class=\"description\">(ex: http://www.facebook.com/<strong>votreNomFacebook</strong>)</span>.<br />"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/admin/contextual-help.php:25
+msgid "For your Feedburner ID, you must fill the field with the name you have in your URL <span class=\"description\">(ex: feeds.feedburner/<strong>yourFeedBurnerSiteName</strong>)</span>."
+msgstr "Pour votre compte Feedburner, vous devez remplir le champ avec le nom que vous avez dans l'URL de votre page <span class=\"description\">(ex: feeds.feedburner/<strong>votreSiteFeedBurner</strong>)</span>."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/inc/widget.php:8
+msgid "Display number of social fans in sidebar"
+msgstr "Afficher le nombre de fans des réseaux sociaux"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/inc/widget.php:83
+msgid "Follow us on Twitter"
+msgstr "Suivez-nous sur Twitter"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/inc/widget.php:84
+msgid "Love us on Facebook"
+msgstr "Aimez-nous sur Facebook"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/inc/widget.php:85
+msgid "Read us via RSS"
+msgstr "Lisez-nous via RSS"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/inc/widget.php:94
+msgid "Title"
+msgstr "Titre"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/inc/widget.php:98
+#, fuzzy
+msgid "Twitter sentence"
+msgstr "Pseudo Twitter :"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/inc/widget.php:102
+#, fuzzy
+msgid "Facebook sentence"
+msgstr "fans Facebook"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/social-subscribers-counter/inc/widget.php:106
+#, fuzzy
+msgid "Feedburner sentence"
+msgstr "Identifiant Feedburner"
+
+#~ msgid "Error"
+#~ msgstr "Erreur"
+
+#~ msgid "Settings of Social Subcribers Counter"
+#~ msgstr "Options de Social Subscribers Counter"
+
+#~ msgid "Name of Twitter Account : "
+#~ msgstr "Nom du compte Twitter"
+
+#~ msgid "Name of Facebook Account : "
+#~ msgstr "Nom du compte Facebook"
+
+#~ msgid "Name of Feedburner Account : "
+#~ msgstr "Nom du compte Feedburner"
